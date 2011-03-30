@@ -1,0 +1,9 @@
+
+This program simulates the game of Blackjack and the
+best known way to play Blackjack. The simulated player
+uses basic game play strategy to eliminate as much of
+the house edge as possible. To gain an edge over the
+house the player utilizes the "counting cards" method
+to decide how to bet and play each hand.
+ 
+ CPSC 481 - Artificial Intelligence
